@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\linqcomsql\linqcomsql\bin\Debug\netcoreapp3.0\linqcomsql.exe
+C:\Users\Lucas\source\repos\linqcomsql\linqcomsql\bin\Debug\netcoreapp3.0\linqcomsql.deps.json
+C:\Users\Lucas\source\repos\linqcomsql\linqcomsql\bin\Debug\netcoreapp3.0\linqcomsql.runtimeconfig.json
+C:\Users\Lucas\source\repos\linqcomsql\linqcomsql\bin\Debug\netcoreapp3.0\linqcomsql.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\linqcomsql\linqcomsql\bin\Debug\netcoreapp3.0\linqcomsql.dll
+C:\Users\Lucas\source\repos\linqcomsql\linqcomsql\bin\Debug\netcoreapp3.0\linqcomsql.pdb
+C:\Users\Lucas\source\repos\linqcomsql\linqcomsql\obj\Debug\netcoreapp3.0\linqcomsql.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\linqcomsql\linqcomsql\obj\Debug\netcoreapp3.0\linqcomsql.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\linqcomsql\linqcomsql\obj\Debug\netcoreapp3.0\linqcomsql.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\linqcomsql\linqcomsql\obj\Debug\netcoreapp3.0\linqcomsql.dll
+C:\Users\Lucas\source\repos\linqcomsql\linqcomsql\obj\Debug\netcoreapp3.0\linqcomsql.pdb
